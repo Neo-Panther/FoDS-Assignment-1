@@ -13,6 +13,21 @@
   3. **Filling Null Values:** *-Only in Part B-* We predict the null values in cells using the mean of the existing values of the corresponding feature.
   4. **Shuffle split the dataset into training and testing sets:** We shuffle the dataset and split the dataset into training and testing sets; using 80% data for training and 20% for testing.
   
+## Polynomial Regression
+
+## Graph Plotting
+
+### 1-A
+
+
+
+### 1-B
+
+## Comparative Analysis
+
+### 1-A
+
+### 1-B
 
 | Q | Degree | Batch Test Error | Batch Train Error | Stochastic Test Error | Stochastic Train Error |
 |----|----|------|---|---|---|
@@ -76,7 +91,7 @@
 |    |  8  | 47042.6682     | 12160.4672  |inf  | inf  |
 |    |  9  |  inf    | inf  | inf  | inf  |
 
-![Alt text](image.png)
+
 
 ## Team Members
 
